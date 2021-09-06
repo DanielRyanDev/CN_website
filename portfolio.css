@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic&display=swap');
+
+* {
+    background-image: url('images/space5.jpg');
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    color: white;
+}  
+
+h1 {
+    text-align: center;
+}
+
+img{
+    align-self: center;
+}
+
+a:link, a:visited {
+    color: white;
+    text-decoration: none;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display:inline-flex;
+}
+
+#back {
+    border: 5px solid white;
+    display: inline-flex;
+}
